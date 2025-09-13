@@ -1,0 +1,20 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pdfplumber",
+    "pillow",
+    "plotly",
+    "pypdf",
+    "seaborn",
+    "streamlit",
+    "requests",
+]
+
+
