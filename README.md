@@ -1,6 +1,8 @@
 # cognitive_VAK_Dev
 Studymate: Smart PDF Study Assistant
 
+## 🌐 Live Demo  
+Try it here: [PDF Study Assistant](https://a4baedc4-e7cf-4bd4-859b-fa532dfcb184-00-26rt7icissovg.pike.replit.dev/)
 
 📘 PDF Study Assistant
 
